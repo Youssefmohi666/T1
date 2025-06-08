@@ -1,0 +1,6 @@
+time
+socket
+platform
+python-nmap
+scapy
+colorama
