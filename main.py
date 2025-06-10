@@ -7,6 +7,7 @@
 # -----------------------------------------------------------
 # importing moduels
 # -----------------------------------------------------------
+# who acess the code has the premissions to edit the functions if it wrong or develpoe it , & thanks
 import time
 import socket
 import platform
